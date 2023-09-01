@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm [Sai Sashank Peddibhotla !](https://www.linkedin.com/in/sai-sashank-p-a7aa6014b)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/)](https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sashank.peddibhotla@gmail.com](mailto:sashank.peddibhotla@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/)](https://www.linkedin.com/in/komal-venugopal-vattumilli-b4ab65146/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sashank.peddibhotla@gmail.com)](mailto:sashank.peddibhotla@gmail.com)
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=sashank-14&label=Profile%20views&color=0e75b6&style=flat" alt="sashank-14" /> ![GitHub followers](https://img.shields.io/github/followers/sashank-14) ![GitHub User's stars](https://img.shields.io/github/stars/sashank-14)
 

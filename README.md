@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=sashank-14&label=Profile%20views&color=0e75b6&style=flat" alt="sashank-14" /> ![GitHub followers](https://img.shields.io/github/followers/sashank-14) ![GitHub User's stars](https://img.shields.io/github/stars/sashank-14)
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Cloud Computing.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Full Stack Development and Cloud Computing.
 
 
 ### More about me:
